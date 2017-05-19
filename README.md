@@ -23,15 +23,17 @@ Former names (still under consideration):
 
 ## The following commands are available
 - list tickets
-- open new tickets
+- add comments
+- close single ticket
   
 ## Feature requests
 single/multi-ticket processing:
+- open new tickets
 - update DESCRIPTION
 - update PRIORITY
-- add comments
+- close multiple tickets
 - transfer tickets /change assignee,group
-- close
+
   
 ## Future Releases
 The current commands use the SOAP WSDL API.
