@@ -1,5 +1,12 @@
 # PowerSDM
 
+## Instructions
+1. Download/extract to your powershell modules folder
+C:\Users\__YOUR_USERNAME__\Documents\WindowsPowerShell\Modules\
+2. Run this in your powershell session:
+import-module wsdm-commands
+3. Run your wsdm commands. Enjoy!
+
 ## Overview
 Personal feelings aside, SDM could use some updates.
 
